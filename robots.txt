@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ialiatea.github.io/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/app/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/assets/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/css/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/data/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/includes/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/item/sitemap.html.gz
+Sitemap: https://ialiatea.github.io/src/sitemap.html.gz
